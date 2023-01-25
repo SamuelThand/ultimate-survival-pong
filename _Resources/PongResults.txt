@@ -1,0 +1,18 @@
+2022_10_07 Result: Level 1 Time survived: 3 seconds
+2022_10_09 Result: Level 6 Time survived: 86 seconds
+2022_10_09 Result: Level 1 Time survived: 12 seconds
+2022_10_09 Result: Level 1 Time survived: 5 seconds
+Result: Level 1 Time survived: 7 seconds
+2022_10_22 Result: Level 1 Time survived: 53 seconds
+2022_10_25 Result: Level 1 Time survived: 7 seconds
+2022_10_25 Result: Level 2 Time survived: 22 seconds
+2022_10_25 Result: Level 2 Time survived: 24 seconds
+2022_10_25 Result: Level 7 Time survived: 92 seconds
+2022_10_25 Result: Level 8 Time survived: 115 seconds
+2022_10_25 Result: Level 6 Time survived: 86 seconds
+2022_10_25 Result: Level 1 Time survived: 9 seconds
+2022_10_25 Result: Level 3 Time survived: 44 seconds
+Result: Level 1 Time survived: 7 seconds
+2022_10_28 Result: Level 5 Time survived: 68 seconds
+Result: Level 1 Time survived: 9 seconds
+2022_10_31 Result: Level 8 Time survived: 119 seconds
